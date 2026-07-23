@@ -1,5 +1,7 @@
 # Anime_Wallpapers
 
+## I add new wallpapers here from time to time, so check back every now and then to see what's new
+
 ![image alt](https://github.com/anime-boobs/Anime_Wallpapers/blob/9c67a2cab69a9ac85e6c3bcd176a67c914498a6e/Images/__adachi_rei_utau_and_1_more_drawn_by_pepanini__e596950666811386693d206d01c3caec.jpg)
 ![image alt](https://github.com/anime-boobs/Anime_Wallpapers/blob/ddecd7f1d093c50d4ced267180f0dee8bba4286f/Images/__aphrissa_arknights_drawn_by_crow_yayu__fb4500074b87fea543cfca887bb1100f.jpg)
 ![image alt](https://github.com/anime-boobs/Anime_Wallpapers/blob/9c4e6d2d86f97586875ff72d568506c32c989552/Images/__arcane_arknights_and_1_more_drawn_by_nekoyama_iori__2b32244fb8e4acb6dc8e529196e96ad2.jpg)
